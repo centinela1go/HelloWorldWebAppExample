@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'app-timx-openai-fqa-001-tim'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41A0FDA9124546DE82E2EC6A44F7E11C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE50BDF88B0147D3AF87C3D1FACD0858 }}
